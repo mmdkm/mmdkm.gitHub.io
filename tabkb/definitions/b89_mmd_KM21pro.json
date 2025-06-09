@@ -1,7 +1,7 @@
 {
-	"name": "mao_ds21_encoder",
-	"vendorId": "0x4A07",
-	"productId": "0x4A07",
+	"name": "MMD_KM21_PRO",
+	"vendorId": "0x4B89",
+	"productId": "0x4B89",
 	"matrix": {
 		"rows": 8,
 		"cols": 4
