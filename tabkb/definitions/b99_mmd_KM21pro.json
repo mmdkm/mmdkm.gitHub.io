@@ -1,7 +1,7 @@
 {
-	"name": "MMDKM21PRO",
-	"vendorId": "0x4B89",
-	"productId": "0x4B89",
+	"name": "MMD_KM21_PRO",
+	"vendorId": "0x4B99",
+	"productId": "0x4B99",
 	"matrix": {
 		"rows": 8,
 		"cols": 4
